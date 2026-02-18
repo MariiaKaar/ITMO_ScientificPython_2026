@@ -1,0 +1,2 @@
+# ITMO_ScientificPython_2026
+ITMO_ScientificPython_2026
