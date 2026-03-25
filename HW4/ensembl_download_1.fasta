@@ -1,0 +1,12 @@
+>ENSMUST00000196221.2 cds chromosome:GRCm39:14:54350925:54350933:1 gene:ENSMUSG00000096749.3 gene_biotype:TR_D_gene transcript_biotype:TR_D_gene gene_symbol:Trdd1 description:T cell receptor delta diversity 1 [Source:MGI Symbol;Acc:MGI:4439547]
+ATGGCATAT
+>ENSMUST00000177564.2 cds chromosome:GRCm39:14:54359683:54359698:1 gene:ENSMUSG00000096176.2 gene_biotype:TR_D_gene transcript_biotype:TR_D_gene gene_symbol:Trdd2 description:T cell receptor delta diversity 2 [Source:MGI Symbol;Acc:MGI:4439546]
+ATCGGAGGGATACGAG
+>ENST00000605284.1 cds chromosome:GRCh38:15:20011153:20011169:-1 gene:ENSG00000271336.1 gene_biotype:IG_D_gene transcript_biotype:IG_D_gene gene_symbol:IGHD1OR15-1A description:immunoglobulin heavy diversity 1/OR15-1A (non-functional) [Source:HGNC Symbol;Acc:HGNC:5487]
+GGTATAACTGGAACAAC
+>ENST00000604642.1 cds chromosome:GRCh38:15:20003840:20003862:-1 gene:ENSG00000270961.1 gene_biotype:IG_D_gene transcript_biotype:IG_D_gene gene_symbol:IGHD5OR15-5A description:immunoglobulin heavy diversity 5/OR15-5A (non-functional) [Source:HGNC Symbol;Acc:HGNC:5512]
+GTGGATATAGTGTCTACGATTAC
+>ENSDART0000018940031 cds chromosome:GRCz11:2:36087769:36087779:1 gene:ENSDARG00000116509.1 gene_biotype:TR_D_gene transcript_biotype:TR_D_gene gene_symbol:BX681417.25
+GATTGGGGTAC
+>ENSDART00000189226.1 cds chromosome:GRCz11:2:36088047:36088056:1 gene:ENSDARG00000116470.1 gene_biotype:TR_D_gene transcript_biotype:TR_D_gene gene_symbol:BX681417.24
+TCTGGACTAC
